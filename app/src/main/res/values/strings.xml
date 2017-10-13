@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JcPennyPrepAssignment</string>
+    <string name="btn_get_all_local">View all saved contacts</string>
+    <string name="btn_generate_contact">Generate new Contact</string>
+    <string name="btn_add_contact">Add To Contacts</string>
+    <string name="tv_cell_label">Cell : </string>
+    <string name="tv_lan_label">Home : </string>
+</resources>
